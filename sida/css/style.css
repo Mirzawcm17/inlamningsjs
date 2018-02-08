@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta+Mahee');
+html{
+  font-family: 'Mukta Mahee';
+  background-color: #B0C4DE;
+}
+.wrapper {
+  width: 60%;
+  height: 100%;
+  /*outline: 1px dashed red;*/
+  margin: auto;
+  background-color: lightblue;
+}
+
+.content {
+  width: 80%;
+  /*outline: 1px dashed green;*/
+  float: right;
+  background-color: lightgreen;
+}
+
+.knappar {
+  position: fixed;
+  margin-top: 20%;
+  height: 100%;
+  float: left;
+  width: 10%;
+  /*outline: 1px dashed blue;*/
+}
+
+a {
+  display: inline-block;
+  /*outline: 1px dashed yellow;*/
+  width: 100px;
+}
+
+.wpimg {
+  float: right;
+  margin-top: 8%;
+}
+
+.wptext{
+  float: right;
+  clear: right;
+}
+
+.aknapp{
+  background-color: #48D1CC;
+   border: none;
+
+   color: red;
+
+   padding: 8px 8px 8px 8px;
+
+   width: 90%;
+
+   text-align: center;
+
+   text-decoration: none;
+
+   display: inline-block;
+
+
+   font-size: 16px;
+
+   margin-top: 5px;
+
+   text-decoration: none;
+}
+h1, h2, p, {
+
+  }
